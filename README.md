@@ -6,3 +6,4 @@ A simulator of the second world war encryption device used by Germany and other 
 - [Technical Details of the Enigma Machine](http://users.telenet.be/d.rijmenants/en/enigmatech.htm)
 - [Stanford - The Enigma Machine](https://web.stanford.edu/class/cs106j/handouts/36-TheEnigmaMachine.pdf)
 - [Standford - Assignment #5 - The Enigma Machine](https://web.stanford.edu/class/cs106j/handouts/37-Assignment5.pdf)
+- [The Enigma - How the Enigma worked](https://hackaday.com/2017/08/22/the-enigma-enigma-how-the-enigma-machine-worked/)
